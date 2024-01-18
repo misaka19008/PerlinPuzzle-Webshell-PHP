@@ -42,7 +42,7 @@
 
 1.  **`wpstring` &emsp;&emsp;=>&emsp;&emsp; ABBCCD** 
 2.  **`b` &emsp;&emsp;&emsp;&emsp;&emsp; =>&emsp;&emsp; s** 
-3.  **`pcs` &emsp;&emsp;&emsp;&emsp; =>&emsp;&emsp; <Your command>** 
+3.  **`pcs` &emsp;&emsp;&emsp;&emsp; =>&emsp;&emsp; Your command** 
 
 ![使用方法](ScreenShot/webshell%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.png)
 
